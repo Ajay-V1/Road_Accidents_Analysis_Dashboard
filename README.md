@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * Introduction
+* Aimed to Solve
 * Dashboard KPI's
 * DAX Formulas Used in Measures
 * Challenges
@@ -10,6 +11,13 @@
 
 ## Introduction
 In an era where data drives decisions, road safety remains a paramount concern. The ability to analyze and interpret road accident data is critical for policymakers, law enforcement agencies, and the public alike. The "Road Accidents Analysis Dashboard using Power BI" project was born out of the need for a comprehensive, accessible, and informative tool to explore road accident trends and gain actionable insights.<br>
+
+## Aimed to Solve
+1. Identify accident hotspots.
+2. Analyze accident trends.
+3. Enable user-friendly data exploration.
+4. Ensure data privacy compliance.
+5. Promote informed decisions for road safety.
 
 ## Dashboard KPI's
 * Primary KPI's - Total Casualties and Total Accident values for Current Year and YoY Growth.
