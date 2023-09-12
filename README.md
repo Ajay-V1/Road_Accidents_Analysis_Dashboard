@@ -63,7 +63,6 @@ In an era where data drives decisions, road safety remains a paramount concern. 
 ## Summary
 Our "Road Accidents Analysis Dashboard using Power BI" project provides data-driven insights into road safety. The user-friendly dashboard empowers users to explore accident data, identify hotspots, and drive safety improvements. We've prioritized data privacy and continuous learning, making this a valuable resource for all concerned with safer roads.<br>
 
-Explore the dashboard, act on insights, and contribute to a safer future.
 
 
 
